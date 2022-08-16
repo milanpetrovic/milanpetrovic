@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :office: Currently working at [Swiss Organic Partners AG](https://www.swopa.ch/) / [Holycode](https://www.holycode.rs/) as Shopify Developer.
-- :computer: Mastering JS & Node JS at the moment, React, you are next! :facepunch:
+- :computer: Mastering JS & Node JS at the moment. React, you are next.js! :facepunch:
 - :bicyclist: Love hiking, riding my MTB, and outdoor workouts of any kind.
 
 **Favorite Quote**
